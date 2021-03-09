@@ -1,3 +1,2 @@
-*.py
-*.sh
-/testdir
+.vscode/
+*.pyc
